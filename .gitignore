@@ -1,7 +1,6 @@
-*
-prometheus
-!prometheus/prometheus.yml
-
-!.gitignore
-!docker-compose.yaml
-!*.yml
+prometheus/01*
+prometheus/chunks_head
+prometheus/wal
+prometheus/queries.active
+lock
+grafana
