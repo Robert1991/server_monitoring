@@ -1,0 +1,4 @@
+*
+!.gitignore
+!docker_compose.yaml
+!prometheus/prometheus.yml
